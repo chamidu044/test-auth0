@@ -1,4 +1,8 @@
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+
+![Your paragraph text A2 Landscape](https://github.com/user-attachments/assets/1cba58ce-0c6a-40ca-a031-fc2895446904)
 
 ## Getting Started
 
